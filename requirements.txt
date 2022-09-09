@@ -6,7 +6,6 @@ atomicwrites==1.4.1
 attrs==21.4.0
 beautifulsoup4==4.11.1
 bitsets==0.8.4        
-box2d-py==2.3.5
 Brotli==1.0.9
 certifi==2022.5.18.1
 cffi==1.15.1
